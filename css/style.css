@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+}
+h1 {
+    background-color: rgb(13, 10, 48);
+    font: bold;
+    color: aliceblue;
+    padding: 20px;
+    margin: 0px;
+}
+
+nav ul li { 
+    
+    font-family: ro;
+    display: inline-block;
+    border-radius: 3px;
+}
+nav{
+    
+    background-color: rgb(13, 10, 48);
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul li {
+    color: aliceblue;
+}
+nav ul li{
+    /*float: right;*/
+    margin-right: 0px;
+}
+nav  a{
+    color: aliceblue;
+}
